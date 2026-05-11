@@ -1,0 +1,14 @@
+{
+  "mae": 1.7681,
+  "rmse": 2.3339,
+  "r2": 0.4692,
+  "acc_1day": 37.35,
+  "acc_2day": 64.89,
+  "cv_mae_mean": 1.765,
+  "cv_mae_std": 0.0815,
+  "residual_mean": -0.4671,
+  "residual_std": 2.2867,
+  "n_features": 17,
+  "n_train": 52596,
+  "n_test": 13149
+}
